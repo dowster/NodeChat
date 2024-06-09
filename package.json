@@ -1,0 +1,9 @@
+{
+  "name": "nodechat",
+  "version": "0.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "server": "src/index.js"
+  },
+  "author": "dowster"
+}
